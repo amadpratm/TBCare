@@ -7,4 +7,8 @@
     <string name="desc">Konsultasi Online</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="screening">Screening Mandiri</string>
+    <string name="abaikan">Jangan abaikan kesehatan paru - paru anda. \n Lakukan screening mandiri secara rutin.</string>
+    <string name="atur">Atur Jadwal dan Pengingat</string>
+    <string name="lewat">Jangan lewatkan obat Anda. Atur jadwal dan \ndapatkan pengingat harian.</string>
 </resources>

@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".OnBoardingFragment">
+    tools:context=".OnBoardingFragment3">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -28,7 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="172dp"
-            android:background="@drawable/group"
+            android:background="@drawable/onb_3"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -43,24 +43,12 @@
             app:layout_constraintEnd_toEndOf="parent" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="32dp"
-            android:layout_marginBottom="40dp"
-            android:clickable="true"
-            android:fontFamily="@font/plus_jakarta_sans_medium"
-            android:text="@string/lewati"
-            android:textSize="16sp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintStart_toStartOf="parent" />
-
-        <TextView
             android:id="@+id/textKonsul"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
             android:fontFamily="@font/plus_jakarta_sans_bold"
-            android:text="@string/desc"
+            android:text="@string/atur"
             android:textColor="#05384C"
             android:textSize="22sp"
             app:layout_constraintEnd_toEndOf="parent"
@@ -75,7 +63,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="32dp"
             android:fontFamily="@font/plus_jakarta_sans_light"
-            android:text="@string/desc2"
+            android:text="@string/lewat"
             android:textAlignment="center"
             android:textColor="#6C757D"
             android:textSize="16sp"
